@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Clicky Game",
+    "image": "https://imgur.com/w18aCo6.jpg",
+    "link": "https://imgur.com/w18aCo6.jpg",
+    "tech": ["React", "Bootstrap"],
+    "involvement": "Creator"
+  },
+  {
+    "id": 2,
+    "name": "Trivia Game",
+    "image": "https://imgur.com/w18aCo6.jpg",
+    "link": "https://imgur.com/w18aCo6.jpg",
+    "tech": ["JQuery", "Bootstrap"],
+    "involvement": "Creator"
+  },
+  {
+    "id": 3,
+    "name": "Hangman",
+    "image": "https://imgur.com/w18aCo6.jpg",
+    "link": "https://imgur.com/w18aCo6.jpg",
+    "tech": ["Vanilla Javascript", "Bootstrap"],
+    "involvement": "Creator"
+  },
+  {
+    "id": 4,
+    "name": "Accrypto",
+    "image": "https://imgur.com/w18aCo6.jpg",
+    "link": "https://imgur.com/w18aCo6.jpg",
+    "tech": ["JQuery","Bootstrap", "APIs"],
+    "involvement": "Collaborator"
+  },
+  {
+    "id": 5,
+    "name": "BlankSpace",
+    "image": "https://imgur.com/w18aCo6.jpg",
+    "link": "https://imgur.com/w18aCo6.jpg",
+    "tech": ["Handlebars", "MYSQL", "Sequelize", "Express", "Bootstrap"],
+    "involvement": "Collaborator"
+  }
+]
